@@ -1,0 +1,4 @@
+test/target
+clojure/target
+clojure/.lein-repl-history
+clojure/.lein-failures
